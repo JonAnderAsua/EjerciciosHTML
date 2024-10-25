@@ -1,0 +1,40 @@
+body {
+    background-color: lightgray;
+}
+
+h2 {
+    background-color: grey;
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.color-rojo{
+    color: red;
+}
+
+.fondo-blanco{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+}
+
+p {
+    text-indent: 2em;
+    text-align: justify;
+}
+
+img{
+    float: left;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+div {
+    margin-left: 10%;
+    margin-right: 10%;
+}
